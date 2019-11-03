@@ -98,10 +98,10 @@ make_dashboard(x=x, gdp_change=gdp_change, unemployment= unemployment, title=tit
 
 
 {
-  "apikey": "k4ZXrJnOPTeM2h49SNTqBp40MPp7Ws_Ri5fmhuD5rhs3",
+  "apikey": "#Enter your Api key",
   "cos_hmac_keys": {
-    "access_key_id": "8c535d2892d0458e95bff589ad94aee8",
-    "secret_access_key": "6fc966504ab1a7d8c8ead7aa9ff3a5ac41ba2310154d78d8"
+    "access_key_id": "#Enter Your access_key",
+    "secret_access_key": "Enter your secret_access_key""
   },
   "endpoints": "https://control.cloud-object-storage.cloud.ibm.com/v2/endpoints",
   "iam_apikey_description": "Auto-generated for key 8c535d28-92d0-458e-95bf-f589ad94aee8",
